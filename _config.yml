@@ -50,7 +50,7 @@ lightdark:
   enable: false
   # Add @supports (color: light-dark(red, red)) check
   check_supports: true
-  # Show the light-dark mode switcher in the site header.
+  # Show the light-dark mode switcher in the site.
   switcher: true
 
 
